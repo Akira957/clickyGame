@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akira957/clickyGame/static/css/main.1c32eb83.chunk.css",
+    "main.js": "/Akira957/clickyGame/static/js/main.57e45d38.chunk.js",
+    "main.js.map": "/Akira957/clickyGame/static/js/main.57e45d38.chunk.js.map",
+    "runtime~main.js": "/Akira957/clickyGame/static/js/runtime~main.ff85d230.js",
+    "runtime~main.js.map": "/Akira957/clickyGame/static/js/runtime~main.ff85d230.js.map",
+    "static/js/2.884c28c3.chunk.js": "/Akira957/clickyGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/Akira957/clickyGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/Akira957/clickyGame/index.html",
+    "precache-manifest.3a7e74f6f7d41f83498d1b59e609234b.js": "/Akira957/clickyGame/precache-manifest.3a7e74f6f7d41f83498d1b59e609234b.js",
+    "service-worker.js": "/Akira957/clickyGame/service-worker.js",
+    "static/css/main.1c32eb83.chunk.css.map": "/Akira957/clickyGame/static/css/main.1c32eb83.chunk.css.map"
+  }
+}
