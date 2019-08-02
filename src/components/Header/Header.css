@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    font-size: 2em;
+    color: tomato;
+    margin-bottom: 10px;
+    background-color: palegreen;
+}
+
+.title {
+    float: left;
+}
+
+.scores {
+    float: right;
+}
